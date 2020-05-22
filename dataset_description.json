@@ -8,10 +8,11 @@
         "Adele E Goldberg"
     ],
     "Acknowledgements": "fMRI data acquisition and the appointment of Nora Michaelis were funded by an Einstein Visiting Fellowship awarded to Professor Adele Goldberg. Data analysis was funded by the Psychology Department, Lancaster University, UK.",
-"ReferencesAndLinks": [
+    "ReferencesAndLinks": [
         "Citron, F.M.M., Michaelis, N., Goldberg, A.E. (2019). Metaphorical language processing and amygdala activation in L1 and L2. Neuropsychologia. Volume, pages, and DOI to be provided.",
         "Citron, F.M.M., Michaelis, N., Goldberg, A.E. (2019). Metaphorical language processing and amygdala activation in L1 and L2. Neuropsychologia. doi: 10.\u200b1016/\u200bj.\u200bneuropsychologia.\u200b2020.\u200b107381",
         "Citron, F.M.M., Michaelis, N., & Goldberg, A.E. (2020). Metaphorical language processing and amygdala activation in L1 and L2. Neuropsychologia, 140, 107381. Doi: 10.1016/j.neuropsychologia.2020.107381"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "DatasetDOI": "10.18112/openneuro.ds002842.v1.0.0"
 }
