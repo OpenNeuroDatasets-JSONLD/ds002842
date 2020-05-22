@@ -1,0 +1,57 @@
+onset	duration	Experiment - Satz_A2	Serial_no	Code	Stimulus	Condition	Onset_time	response	response_time	Accuracy	Bildh	Arousal	EmoVal	Gebr	Metaph	Buchstaben	Wšrter	Similarity	NebensŠtze	Relative	Passiv	Komposita	Personen	Angaben	Konjunktive	analytF	Satzstellung
+1,623	4	41CC	1	12	Immer wenn der Berg rief, stand er sehr frŸh auf.	99	1623	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+6,657	4	41CC	2	22	Er achtete stets auf die Preise im Supermarkt.	99	6657	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+11,697	4	41CC	3	149	Seine zerbrechliche Seele konnte den Streit nicht lŠnger aushalten.	1	11697	keine	0	keine	4,12	3,1	1,1	5,47	4,63	59	9	5,842105	0	0	0	0	1	1	0	1	0
+20,737	4	41CC	4	219	Die kleine Familie wollte ihren Hausbau grŸndlich planen.	2	20737	keine	0	keine	3,06	3,55	1,2	4,89	1,32	50	8	5,833333	0	0	0	1	1	1	0	1	0
+26,772	4	41CC	5	212	Das Thema des Matheunterrichts ist schwierig.	2	26772	keine	0	keine	3	4,15	-0,3	4,05	1,95	40	6	5,315789	0	0	0	1	1	1	0	0	0
+36,807	4	41CC	6	107	Der Flugbegleiter heute war wirklich zum Anbei§en!	1	36807	keine	0	keine	5,35	5,35	-0,9	3,63	4,89	44	7	6,526316	0	0	0	1	1	2	0	0	0
+44,853	4	41CC	7	108	Der Gesang des Opernstars ist kšstlich.	1	44853	keine	0	keine	4,78	4,05	-0,4	4	4,74	34	6	5,5	0	0	0	1	1	1	0	0	0
+50,893	6	41CC	8	406	Bezog sich der letzte Satz auf Musik?	4	50893	Nein	4306	incorrect	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+63,934	4	41CC	9	101	Ach, was fŸr ein leichtes Leben hatten wir wŠhrend der Schulferien!	1	63934	keine	0	keine	4,5	1,95	-0,1	4,89	2,79	57	11	5,736842	0	0	0	1	1	1	0	0	1
+68,975	4	41CC	10	247	Nur sehr intelligente Kinder machen bei diesem Wettbewerb mit.	2	68975	keine	0	keine	3,22	4,1	1,7	4,32	2,16	54	9	5,368421	0	0	0	1	1	2	0	0	0
+76,015	4	41CC	11	146	Nach dem MissverstŠndnis war Irma jetzt in einer haarigen Situation.	1	76015	keine	0	keine	3,5	4,7	-1,7	5,32	3,58	59	10	5,894737	0	0	0	1	1	2	0	0	0
+81,06	4	41CC	12	362	###### #### ### #### ######	3	81060	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+86,1	4	41CC	13	126	Diesen Sonntag duellieren sich die Kanzlerkandidaten im Fernsehen.	1	86100	keine	0	keine	5,22	4,65	-1,4	4,74	5,21	59	8	5,111111	0	0	0	1	1	2	0	0	0
+96,14	4	41CC	14	343	##### ########## ###### ### ######## ######## #####	3	96140	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+104,187	4	41CC	15	204	Das war eine unglaublich gleichgŸltige Reaktion von ihr.	2	104187	keine	0	keine	3,44	4	1,7	5,26	1,74	49	8	3,315789	0	0	0	1	1	2	0	0	0
+110,227	4	41CC	16	349	##### ############ ##### ###### ### ###### ##### ###### #########	3	110227	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+115,261	6	41CC	17	407	Hast du gerade einen Satz gelesen?	4	115261	Ja	2524	incorrect	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+123,291	4	41CC	18	205	Das war heute eine gro§e EnttŠuschung fŸr meinen Vater.	2	123291	keine	0	keine	3,61	4,3	1,8	4,53	2,37	47	9	6,105263	0	0	0	0	1	1	0	0	0
+128,325	4	41CC	19	218	Die GesprŠche Ÿber seine Kindheit waren schlimm fŸr ihn.	2	128325	keine	0	keine	4,06	3,4	0,1	4,11	1,63	48	9	5,315789	0	0	0	0	1	1	0	0	0
+135,365	4	41CC	20	243	Meine Gro§eltern hatten ein wirklich schwieriges Leben.	2	135365	keine	0	keine	3,72	2,25	1,1	4,79	1,74	49	7	6,222222	0	0	0	1	1	1	0	0	0
+141,411	4	41CC	21	311	### #### ### ####### ######## ####### ####################	3	141411	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+147,445	4	41CC	22	134	Ihre romantische Hochzeitsfeier bewegte die Braut sehr.	1	147445	keine	0	keine	5,11	4,15	-0,8	3,68	5,42	49	7	4,421053	0	0	0	1	1	1	0	0	0
+155,48	4	41CC	23	319	### ###### ####### ###### ##### ####### ########### ######	3	155480	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+161,519	4	41CC	24	213	Der vorbestrafte Mann war diesmal unschuldig.	2	161519	keine	0	keine	2,78	5,25	1,8	4,79	2,47	40	6	6,052632	0	0	0	1	1	1	0	0	0
+171,555	4	41CC	25	254	WŸtend schaltete der LangschlŠfer den nervigen Wecker aus.	2	171555	keine	0	keine	5,89	3,9	1,3	5,68	1,63	51	8	5,263158	0	0	0	1	1	1	0	0	0
+178,601	4	41CC	26	103	Das GesprŠch beim Finanzamt verlief glŸcklicherweise reibungslos.	1	178601	keine	0	keine	3,39	4,25	-0,7	4,26	2,53	59	7	6,210526	0	0	0	1	1	2	0	0	0
+188,647	4	41CC	27	110	Der Schauspieler hatte ein zerfurchtes Gesicht voller Narben.	1	188647	keine	0	keine	6,53	3,65	0,7	5,16	3,26	54	8	5,947368	0	0	0	1	1	1	0	0	0
+195,693	4	41CC	28	350	######## ########## ##### ############ #### ## ######	3	195693	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+204,739	4	41CC	29	117	Die Firma hat sich einen finanziell gut aufgestellten Partner ausgesucht.	1	204739	keine	0	keine	2,94	4,25	0,8	4,58	2,79	64	10	5,789474	0	0	0	0	1	1	0	1	0
+209,774	4	41CC	30	211	Der Sieg des LŠufers erzeugte riesige Medienaufmerksamkeit.	2	209774	keine	0	keine	4,59	4,2	-0,5	4,63	1,89	53	7	6,111111	0	0	0	1	1	1	0	0	0
+217,814	4	41CC	31	334	#### ########### ############## ###### ### ##### ####	3	217814	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+223,854	4	41CC	32	244	Meine Tante hat ein gutes Herz, sie kocht freiwillig fŸr Obdachlose.	2	223854	keine	0	keine	5,22	3,3	1	5,05	1,95	58	11	5,578947	1	0	0	1	2	1	0	0	0
+230,889	6	41CC	33	408	Ging es gerade ums Kochen?	4	230889	Nein	3722	incorrect	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+237,941	4	41CC	34	339	#### ### ########### ######### ### ####### ### ######### #### ### #####	3	237941	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+247,98	4	41CC	35	326	###### ####### ######### #### ### ################# ## #########	3	247980	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+259,027	4	41CC	36	122	Die Unternehmerin stand immer unter Druck.	1	259027	keine	0	keine	3,33	3,35	-0,6	5,05	2,95	37	6	4,157895	0	0	0	0	1	1	0	0	0
+265,068	4	41CC	37	259	Stefanie war nervšs, aber die PrŠsentation war absolut perfekt.	2	265068	keine	0	keine	3,89	3	0,6	5,63	1,53	55	9	5,947368	1	0	0	0	1	1	0	0	0
+270,103	4	41CC	38	150	Vokabeln verankern sich durch regelmŠ§iges †ben im Gehirn.	1	270103	keine	0	keine	3,33	3,8	1,4	5,05	3,63	51	8	6,263158	0	0	0	0	1	1	0	0	0
+277,142	4	41CC	39	308	### ###### ### ########## ### ##########	3	277142	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+288,188	4	41CC	40	357	##### #### ############## ##### #### ######## #########	3	288188	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+296,229	4	41CC	41	230	Endlich war Ruhe zwischen den Streitenden.	2	296229	keine	0	keine	4	2,2	0,7	4,95	1,32	37	6	4,578947	0	0	0	1	1	1	0	0	0
+304,27	4	41CC	42	305	### ### ##### #### ###### ############ ### ###### #####	3	304270	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+309,31	4	41CC	43	347	### #### ######## ###### ###### ### ###### ########## ###	3	309310	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+318,35	4	41CC	44	301	### ### ### ### ######## ##### ###### ### ####### ### ###########	3	318350	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+328,385	4	41CC	45	148	Seine Hoffnungen auf Gesundheit hatte der Kranke lŠngst begraben.	1	328385	keine	0	keine	4,44	3,65	-0,2	4,95	3,89	57	9	6,736842	0	0	0	0	1	1	0	1	1
+333,431	4	41CC	46	160	Diana  wollte alles hinter sich lassen und reiste nach Japan.	1	333431	keine	0	keine	4,44	4,65	-1,9	4,37	4,11	51	11	4,368421	1	0	0	0	1	0	0	0	0
+342,471	4	41CC	47	157	Ingrids neue Kaffeemaschine bestach durch ihre einfache Bedienung.	1	342471	keine	0	keine	4,44	4,4	0,9	4,37	3,47	59	8	4,736842	0	0	0	1	1	0	0	0	0
+347,506	6	41CC	48	409	Ging es im letzten Satz um Eiscreme?	4	347506	Ja	3381	incorrect	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+355,535	4	41CC	49	318	### ######### #### ##### ######## ##### ######### ### ###	3	355535	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+363,57	4	41CC	50	262	Dieser Mann ist echt hŸbsch.	2	363570	keine	0	keine	5	4	2	5,454545	1,181818	23	5	6,181818	0	0	1	0	2	1	0	0	0
+369,611	4	41CC	51	231	Es gibt gute Argumente fŸr Baumwolle statt Polyester.	2	369611	keine	0	keine	2,67	3,85	1,4	5,05	1,63	46	8	6	0	0	0	0	1	0	0	0	0
+376,645	6	41CC	52	410	Ging es eben um Kleidungsstoffe?	4	376645	Nein	3249	incorrect	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+388,68	4	41CC	53	137	In Wien habe ich einen himmlischen Kaffee getrunken.	1	388680	keine	0	keine	5,83	5,35	-2,3	3,58	4,68	45	8	6,263158	0	0	0	0	1	1	0	0	0
+393,726	4	41CC	54	239	Laut und unangenehm hallten die Stimmen der HŠndler auf dem Markt.	2	393726	keine	0	keine	4,89	2,25	0,4	4,26	2,68	56	11	4,157895	0	0	0	0	1	2	0	0	1
+403,766	4	41CC	55	337	## #### #### ### ##### ########### ###### #########	3	403766	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+

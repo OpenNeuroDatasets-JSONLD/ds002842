@@ -1,0 +1,57 @@
+onset	duration	Experiment - Satz_B2	Serial_no	Code	Stimulus	Condition	Onset_time	response	response_time	Accuracy	Bildh	Arousal	EmoVal	Gebr	Metaph	Buchstaben	Wšrter	Similarity	NebensŠtze	Relative	Passiv	Komposita	Personen	Angaben	Konjunktive	analytF	Satzstellung
+1,63	4	47CB	1	11	Ihm konnten nicht viele das Wasser reichen.	99	1630	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+6,67	4	47CB	2	22	Er achtete stets auf die Preise im Supermarkt.	99	6670	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+11,71	6	47CB	3	406	Geht er sorgsam mit Geld um?	4	11710	Nein	3200	incorrect	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+19,755	4	47CB	4	322	### ############## ### ##### ### ####	3	19755	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+26,79	4	47CB	5	344	##### ##### ### ### ##### #### ### ##### ############# ### ##########	3	26790	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+32,835	4	47CB	6	244	Meine Tante hat ein gutes Herz. sie kocht freiwillig fŸr Obdachlose.	2	32835	keine	0	keine	5.22	3.3	1	5.05	1.95	58	11	5.578.947	1	0	0	1	2	1	0	0	0
+37,87	4	47CB	7	217	Die Firma hat sich einen finanziell gut situierten Partner ausgesucht.	2	37870	keine	0	keine	2.72	4.1	1.1	5.05	2.32	61	10	5.789.474	0	0	0	0	1	1	0	1	0
+47,91	4	47CB	8	219	Die kleine Familie wollte ihren Hausbau grŸndlich planen.	2	47910	keine	0	keine	3.06	3.55	1.2	4.89	1.32	50	8	5.833.333	0	0	0	1	1	1	0	1	0
+56,956	4	47CB	9	101	Ach. was fŸr ein leichtes Leben hatten wir wŠhrend der Schulferien!	1	56956	keine	0	keine	4.5	1.95	-0.1	4.89	2.79	57	11	5.736.842	0	0	0	1	1	1	0	0	1
+62,991	4	47CB	10	104	Das war eine unglaublich oberflŠchliche Reaktion von ihr.	1	62991	keine	0	keine	2.67	4.05	1.4	2.74	4.95	50	8	3.315.789	0	0	0	1	1	2	0	0	0
+73,026	4	47CB	11	246	Nach dem MissverstŠndnis war Ella jetzt in einer komplizierten Situation.	2	73026	keine	0	keine	2.89	4.9	-0.9	5.58	1.68	64	10	5.894.737	0	0	0	1	1	2	0	0	0
+78,073	4	47CB	12	105	Das war heute eine bittere EnttŠuschung fŸr meinen Vater.	1	78073	keine	0	keine	3.67	4.85	1.7	4.26	4.74	49	9	6.105.263	0	0	0	0	1	1	0	0	0
+83,112	4	47CB	13	234	Ihre romantische Hochzeitsfeier gefiel der Braut sehr.	2	83112	keine	0	keine	5.17	3.8	-0.5	4.26	1.58	48	7	4.421.053	0	0	0	1	1	1	0	0	0
+88,152	4	47CB	14	250	Vokabeln verbleiben durch regelmŠ§iges †ben im Gehirn.	2	88152	keine	0	keine	3.39	3.05	1.6	4.84	1.84	48	7	6.263.158	0	0	0	0	1	1	0	0	0
+95,192	4	47CB	15	107	Der Flugbegleiter heute war wirklich zum Anbei§en!	1	95192	keine	0	keine	5.35	5.35	-0.9	3.63	4.89	44	7	6.526.316	0	0	0	1	1	2	0	0	0
+103,238	4	47CB	16	311	### #### ### ####### ######## ####### ####################	3	103238	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+108,278	4	47CB	17	243	Meine Gro§eltern hatten ein wirklich schwieriges Leben.	2	108278	keine	0	keine	3.72	2.25	1.1	4.79	1.74	49	7	6.222.222	0	0	0	1	1	1	0	0	0
+118,318	4	47CB	18	304	### ### #### ########### ############## ######## ### ###	3	118318	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+127,364	6	47CB	19	407	Hast du einen Satz gelesen?	4	127364	Nein	5147	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+135,389	4	47CB	20	111	Der Sieg des LŠufers zog riesige Medienaufmerksamkeit nach sich.	1	135389	keine	0	keine	4.83	4.55	-0.8	5.47	2.68	56	9	6.111.111	0	0	0	1	1	1	0	0	0
+140,423	4	47CB	21	248	Seine Hoffnungen auf Gesundheit hatte der Kranke lŠngst aufgegeben.	2	140423	keine	0	keine	3.44	4	-0.2	3.32	2.37	59	9	6.736.842	0	0	0	0	1	1	0	1	1
+146,463	6	47CB	22	408	Ist er gesund?	4	146463	Nein	3218	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+153,503	4	47CB	23	112	Der Stoff des Matheunterrichts ist schwierig.	1	153503	keine	0	keine	2.89	4.5	-0.5	4.26	3.42	40	6	5.315.789	0	0	0	1	1	1	0	0	0
+160,543	4	47CB	24	259	Stefanie war nervšs. aber die PrŠsentation war absolut perfekt.	2	160543	keine	0	keine	3.89	3	0.6	5.63	1.53	55	9	5.947.368	1	0	0	0	1	1	0	0	0
+168,589	4	47CB	25	122	Die Unternehmerin stand immer unter Druck.	1	168589	keine	0	keine	3.33	3.35	-0.6	5.05	2.95	37	6	4.157.895	0	0	0	0	1	1	0	0	0
+173,63	4	47CB	26	318	### ######### #### ##### ######## ##### ######### ### ###	3	173630	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+178,669	4	47CB	27	126	Diesen Sonntag duellieren sich die Kanzlerkandidaten im Fernsehen.	1	178669	keine	0	keine	5.22	4.65	-1.4	4.74	5.21	59	8	5.111.111	0	0	0	1	1	2	0	0	0
+187,709	4	47CB	28	130	Endlich war Waffenstillstand zwischen den Streitenden.	1	187709	keine	0	keine	4.56	2.45	0.3	4.95	2.58	49	6	4.578.947	0	0	0	1	1	1	0	0	0
+196,744	4	47CB	29	307	### ############# ##### ### ######## #########	3	196744	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+207,779	4	47CB	30	313	### ############ #### ### ####### ########	3	207779	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+213,821	4	47CB	31	210	Der Schauspieler hatte ein sehr grob vernarbtes Gesicht.	2	213821	keine	0	keine	6.12	3.6	0.6	5.37	1.53	49	8	5.947.368	0	0	0	1	1	1	0	0	0
+218,855	6	47CB	32	409	Hat er eine schšne Gesichtshaut?	4	218855	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+231,901	4	47CB	33	247	Nur sehr intelligente Kinder machen bei diesem Wettbewerb mit.	2	231901	keine	0	keine	3.22	4.1	1.7	4.32	2.16	54	9	5.368.421	0	0	0	1	1	2	0	0	0
+237,942	4	47CB	34	203	Das GesprŠch beim Finanzamt verlief glŸcklicherweise problemlos.	2	237942	keine	0	keine	3.17	3.95	-1.3	4.42	1.89	56	7	6.210.526	0	0	0	1	1	2	0	0	0
+242,976	4	47CB	35	343	##### ########## ###### ### ######## ######## #####	3	242976	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+251,016	4	47CB	36	348	##### ########## ### ########## ##### ### ###### ###### ##########	3	251016	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+260,057	4	47CB	37	208	Der Gesang des Opernstars ist wunderschšn.	2	260057	keine	0	keine	4.72	4.2	-0.6	4.16	3.42	37	6	5.5	0	0	0	1	1	1	0	0	0
+266,092	4	47CB	38	347	### #### ######## ###### ###### ### ###### ########## ###	3	266092	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+275,126	4	47CB	39	218	Die GesprŠche Ÿber seine Kindheit waren schlimm fŸr ihn.	2	275126	keine	0	keine	4.06	3.4	0.1	4.11	1.63	48	9	5.315.789	0	0	0	0	1	1	0	0	0
+280,162	4	47CB	40	317	### ##### ### #### ##### ########### ### ########### ####### ##########	3	280162	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+291,201	4	47CB	41	303	### ####### #### ######### ####### ################ ###########	3	291201	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+299,242	4	47CB	42	312	### ##### ### ################ ### #########	3	299242	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+306,283	4	47CB	43	331	## #### ##### ######### ### ######### ##### #########	3	306283	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+312,329	4	47CB	44	131	Es gibt starke Argumente fŸr Baumwolle statt Polyester.	1	312329	keine	0	keine	2.33	4.7	1.6	5.05	5.37	48	8	6	0	0	0	0	1	0	0	0	0
+318,363	4	47CB	45	137	In Wien habe ich einen himmlischen Kaffee getrunken.	1	318363	keine	0	keine	5.83	5.35	-2.3	3.58	4.68	45	8	6.263.158	0	0	0	0	1	1	0	0	0
+326,398	4	47CB	46	139	Laut und einschneidend hallten die Stimmen der HŠndler auf dem Markt.	1	326398	keine	0	keine	5.39	2.35	0.6	4.16	3.68	59	11	4.157.895	0	0	0	0	1	2	0	0	1
+335,438	6	47CB	47	410	Ging es gerade um einen Markt?	4	335438	Ja	2088	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+342,479	4	47CB	48	213	Der vorbestrafte Mann war diesmal unschuldig.	2	342479	keine	0	keine	2.78	5.25	1.8	4.79	2.47	40	6	6.052.632	0	0	0	1	1	1	0	0	0
+352,519	4	47CB	49	337	## #### #### ### ##### ########### ###### #########	3	352519	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+362,565	4	47CB	50	149	Seine zerbrechliche Seele konnte den Streit nicht lŠnger aushalten.	1	362565	keine	0	keine	4.12	3.1	1.1	5.47	4.63	59	9	5.842.105	0	0	0	0	1	1	0	1	0
+369,612	4	47CB	51	254	WŸtend schaltete der LangschlŠfer den nervigen Wecker aus.	2	369612	keine	0	keine	5.89	3.9	1.3	5.68	1.63	51	8	5.263.158	0	0	0	1	1	1	0	0	0
+376,657	4	47CB	52	157	Ingrids neue Kaffeemaschine bestach durch ihre einfache Bedienung.	1	376657	keine	0	keine	4.44	4.4	0.9	4.37	3.47	59	8	4.736.842	0	0	0	1	1	0	0	0	0
+384,703	4	47CB	53	357	##### #### ############## ##### #### ######## #########	3	384703	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+391,744	4	47CB	54	160	Diana  wollte alles hinter sich lassen und reiste nach Japan.	1	391744	keine	0	keine	4.44	4.65	-1.9	4.37	4.11	51	11	4.368.421	1	0	0	0	1	0	0	0	0
+396,789	4	47CB	55	162	Dieser Mann ist ein echter Leckerbissen.	1	396789	keine	0	keine	3.818.182	4	2	3.636.364	6.363.636	34	6	6.181.818	0	0	1	0	2	1	0	0	0
+
