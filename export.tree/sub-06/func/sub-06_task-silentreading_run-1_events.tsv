@@ -1,0 +1,57 @@
+onset	duration	Experiment - Satz_A2	Serial_no	Code	Stimulus	Condition	Onset_time	response	response_time	Accuracy	Bildh	Arousal	EmoVal	Gebr	Metaph	Buchstaben	Wšrter	Similarity	NebensŠtze	Relative	Passiv	Komposita	Personen	Angaben	Konjunktive	analytF	Satzstellung
+1,632	4	31NS	1	12	Immer wenn der Berg rief, stand er sehr frŸh auf.	99	1632	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+6,666	4	31NS	2	22	Er achtete stets auf die Preise im Supermarkt.	99	6666	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+11,706	4	31NS	3	149	Seine zerbrechliche Seele konnte den Streit nicht lŠnger aushalten.	1	11706	keine	0	keine	4,12	3,1	1,1	5,47	4,63	59	9	5,842105	0	0	0	0	1	1	0	1	0
+20,746	4	31NS	4	219	Die kleine Familie wollte ihren Hausbau grŸndlich planen.	2	20746	keine	0	keine	3,06	3,55	1,2	4,89	1,32	50	8	5,833333	0	0	0	1	1	1	0	1	0
+26,781	4	31NS	5	212	Das Thema des Matheunterrichts ist schwierig.	2	26781	keine	0	keine	3	4,15	-0,3	4,05	1,95	40	6	5,315789	0	0	0	1	1	1	0	0	0
+36,815	4	31NS	6	107	Der Flugbegleiter heute war wirklich zum Anbei§en!	1	36815	keine	0	keine	5,35	5,35	-0,9	3,63	4,89	44	7	6,526316	0	0	0	1	1	2	0	0	0
+44,862	4	31NS	7	108	Der Gesang des Opernstars ist kšstlich.	1	44862	keine	0	keine	4,78	4,05	-0,4	4	4,74	34	6	5,5	0	0	0	1	1	1	0	0	0
+50,902	6	31NS	8	406	Bezog sich der letzte Satz auf Musik?	4	50902	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+63,942	4	31NS	9	101	Ach, was fŸr ein leichtes Leben hatten wir wŠhrend der Schulferien!	1	63942	keine	0	keine	4,5	1,95	-0,1	4,89	2,79	57	11	5,736842	0	0	0	1	1	1	0	0	1
+68,983	4	31NS	10	247	Nur sehr intelligente Kinder machen bei diesem Wettbewerb mit.	2	68983	keine	0	keine	3,22	4,1	1,7	4,32	2,16	54	9	5,368421	0	0	0	1	1	2	0	0	0
+76,024	4	31NS	11	146	Nach dem MissverstŠndnis war Irma jetzt in einer haarigen Situation.	1	76024	keine	0	keine	3,5	4,7	-1,7	5,32	3,58	59	10	5,894737	0	0	0	1	1	2	0	0	0
+81,069	4	31NS	12	362	###### #### ### #### ######	3	81069	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+86,109	4	31NS	13	126	Diesen Sonntag duellieren sich die Kanzlerkandidaten im Fernsehen.	1	86109	keine	0	keine	5,22	4,65	-1,4	4,74	5,21	59	8	5,111111	0	0	0	1	1	2	0	0	0
+96,148	4	31NS	14	343	##### ########## ###### ### ######## ######## #####	3	96148	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+104,195	4	31NS	15	204	Das war eine unglaublich gleichgŸltige Reaktion von ihr.	2	104195	keine	0	keine	3,44	4	1,7	5,26	1,74	49	8	3,315789	0	0	0	1	1	2	0	0	0
+110,235	4	31NS	16	349	##### ############ ##### ###### ### ###### ##### ###### #########	3	110235	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+115,27	6	31NS	17	407	Hast du gerade einen Satz gelesen?	4	115270	Nein	4590	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+123,316	4	31NS	18	205	Das war heute eine gro§e EnttŠuschung fŸr meinen Vater.	2	123316	keine	0	keine	3,61	4,3	1,8	4,53	2,37	47	9	6,105263	0	0	0	0	1	1	0	0	0
+128,35	4	31NS	19	218	Die GesprŠche Ÿber seine Kindheit waren schlimm fŸr ihn.	2	128350	keine	0	keine	4,06	3,4	0,1	4,11	1,63	48	9	5,315789	0	0	0	0	1	1	0	0	0
+135,387	4	31NS	20	243	Meine Gro§eltern hatten ein wirklich schwieriges Leben.	2	135387	keine	0	keine	3,72	2,25	1,1	4,79	1,74	49	7	6,222222	0	0	0	1	1	1	0	0	0
+141,419	4	31NS	21	311	### #### ### ####### ######## ####### ####################	3	141419	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+147,453	4	31NS	22	134	Ihre romantische Hochzeitsfeier bewegte die Braut sehr.	1	147453	keine	0	keine	5,11	4,15	-0,8	3,68	5,42	49	7	4,421053	0	0	0	1	1	1	0	0	0
+155,488	4	31NS	23	319	### ###### ####### ###### ##### ####### ########### ######	3	155488	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+161,528	4	31NS	24	213	Der vorbestrafte Mann war diesmal unschuldig.	2	161528	keine	0	keine	2,78	5,25	1,8	4,79	2,47	40	6	6,052632	0	0	0	1	1	1	0	0	0
+171,563	4	31NS	25	254	WŸtend schaltete der LangschlŠfer den nervigen Wecker aus.	2	171563	keine	0	keine	5,89	3,9	1,3	5,68	1,63	51	8	5,263158	0	0	0	1	1	1	0	0	0
+178,609	4	31NS	26	103	Das GesprŠch beim Finanzamt verlief glŸcklicherweise reibungslos.	1	178609	keine	0	keine	3,39	4,25	-0,7	4,26	2,53	59	7	6,210526	0	0	0	1	1	2	0	0	0
+188,655	4	31NS	27	110	Der Schauspieler hatte ein zerfurchtes Gesicht voller Narben.	1	188655	keine	0	keine	6,53	3,65	0,7	5,16	3,26	54	8	5,947368	0	0	0	1	1	1	0	0	0
+195,701	4	31NS	28	350	######## ########## ##### ############ #### ## ######	3	195701	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+204,747	4	31NS	29	117	Die Firma hat sich einen finanziell gut aufgestellten Partner ausgesucht.	1	204747	keine	0	keine	2,94	4,25	0,8	4,58	2,79	64	10	5,789474	0	0	0	0	1	1	0	1	0
+209,782	4	31NS	30	211	Der Sieg des LŠufers erzeugte riesige Medienaufmerksamkeit.	2	209782	keine	0	keine	4,59	4,2	-0,5	4,63	1,89	53	7	6,111111	0	0	0	1	1	1	0	0	0
+217,822	4	31NS	31	334	#### ########### ############## ###### ### ##### ####	3	217822	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+223,862	4	31NS	32	244	Meine Tante hat ein gutes Herz, sie kocht freiwillig fŸr Obdachlose.	2	223862	keine	0	keine	5,22	3,3	1	5,05	1,95	58	11	5,578947	1	0	0	1	2	1	0	0	0
+230,896	6	31NS	33	408	Ging es gerade ums Kochen?	4	230896	Ja	5366	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+237,932	4	31NS	34	339	#### ### ########### ######### ### ####### ### ######### #### ### #####	3	237932	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+247,972	4	31NS	35	326	###### ####### ######### #### ### ################# ## #########	3	247972	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+259,018	4	31NS	36	122	Die Unternehmerin stand immer unter Druck.	1	259018	keine	0	keine	3,33	3,35	-0,6	5,05	2,95	37	6	4,157895	0	0	0	0	1	1	0	0	0
+265,059	4	31NS	37	259	Stefanie war nervšs, aber die PrŠsentation war absolut perfekt.	2	265059	keine	0	keine	3,89	3	0,6	5,63	1,53	55	9	5,947368	1	0	0	0	1	1	0	0	0
+270,094	4	31NS	38	150	Vokabeln verankern sich durch regelmŠ§iges †ben im Gehirn.	1	270094	keine	0	keine	3,33	3,8	1,4	5,05	3,63	51	8	6,263158	0	0	0	0	1	1	0	0	0
+277,133	4	31NS	39	308	### ###### ### ########## ### ##########	3	277133	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+288,179	4	31NS	40	357	##### #### ############## ##### #### ######## #########	3	288179	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+296,22	4	31NS	41	230	Endlich war Ruhe zwischen den Streitenden.	2	296220	keine	0	keine	4	2,2	0,7	4,95	1,32	37	6	4,578947	0	0	0	1	1	1	0	0	0
+304,26	4	31NS	42	305	### ### ##### #### ###### ############ ### ###### #####	3	304260	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+309,301	4	31NS	43	347	### #### ######## ###### ###### ### ###### ########## ###	3	309301	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+318,341	4	31NS	44	301	### ### ### ### ######## ##### ###### ### ####### ### ###########	3	318341	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+328,376	4	31NS	45	148	Seine Hoffnungen auf Gesundheit hatte der Kranke lŠngst begraben.	1	328376	keine	0	keine	4,44	3,65	-0,2	4,95	3,89	57	9	6,736842	0	0	0	0	1	1	0	1	1
+333,422	4	31NS	46	160	Diana  wollte alles hinter sich lassen und reiste nach Japan.	1	333422	keine	0	keine	4,44	4,65	-1,9	4,37	4,11	51	11	4,368421	1	0	0	0	1	0	0	0	0
+342,462	4	31NS	47	157	Ingrids neue Kaffeemaschine bestach durch ihre einfache Bedienung.	1	342462	keine	0	keine	4,44	4,4	0,9	4,37	3,47	59	8	4,736842	0	0	0	1	1	0	0	0	0
+347,497	6	31NS	48	409	Ging es im letzten Satz um Eiscreme?	4	347497	Nein	3531	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+355,526	4	31NS	49	318	### ######### #### ##### ######## ##### ######### ### ###	3	355526	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+363,56	4	31NS	50	262	Dieser Mann ist echt hŸbsch.	2	363560	keine	0	keine	5	4	2	5,454545	1,181818	23	5	6,181818	0	0	1	0	2	1	0	0	0
+369,601	4	31NS	51	231	Es gibt gute Argumente fŸr Baumwolle statt Polyester.	2	369601	keine	0	keine	2,67	3,85	1,4	5,05	1,63	46	8	6	0	0	0	0	1	0	0	0	0
+376,635	6	31NS	52	410	Ging es eben um Kleidungsstoffe?	4	376635	Ja	4602	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+388,671	4	31NS	53	137	In Wien habe ich einen himmlischen Kaffee getrunken.	1	388671	keine	0	keine	5,83	5,35	-2,3	3,58	4,68	45	8	6,263158	0	0	0	0	1	1	0	0	0
+393,717	4	31NS	54	239	Laut und unangenehm hallten die Stimmen der HŠndler auf dem Markt.	2	393717	keine	0	keine	4,89	2,25	0,4	4,26	2,68	56	11	4,157895	0	0	0	0	1	2	0	0	1
+403,757	4	31NS	55	337	## #### #### ### ##### ########### ###### #########	3	403757	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+
