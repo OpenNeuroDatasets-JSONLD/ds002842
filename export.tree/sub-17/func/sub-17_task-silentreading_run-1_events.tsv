@@ -1,0 +1,57 @@
+onset	duration	Experiment - Satz_D1	Serial_no	Code	Stimulus	Condition	Onset_time	response	response_time	Accuracy	Bildh	Arousal	EmoVal	Gebr	Metaph	Buchstaben	Wšrter	Similarity	NebensŠtze	Relative	Passiv	Komposita	Personen	Angaben	Konjunktive	analytF	Satzstellung
+1,628	4	42PP	1	22	Er achtete stets auf die Preise im Supermarkt.	99	1628	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+6,665	4	42PP	2	11	Ihm konnten nicht viele das Wasser reichen.	99	6665	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+11,708	4	42PP	3	105	Das war heute eine bittere EnttŠuschung fŸr meinen Vater.	1	11708	keine	0	keine	3,67	4,85	1,7	4,26	4,74	49	9	6,105263	0	0	0	0	1	1	0	0	0
+17,745	4	42PP	4	234	Ihre romantische Hochzeitsfeier gefiel der Braut sehr.	2	17745	keine	0	keine	5,17	3,8	-0,5	4,26	1,58	48	7	4,421053	0	0	0	1	1	1	0	0	0
+24,779	4	42PP	5	217	Die Firma hat sich einen finanziell gut situierten Partner ausgesucht.	2	24779	keine	0	keine	2,72	4,1	1,1	5,05	2,32	61	10	5,789474	0	0	0	0	1	1	0	1	0
+30,825	4	42PP	6	144	Meine Tante hat ein weiches Herz, sie kocht freiwillig fŸr Obdachlose.	1	30825	keine	0	keine	5,5	3,2	1,1	4,83	2,84	60	11	5,578947	1	0	0	1	2	1	0	0	0
+35,859	4	42PP	7	148	Seine Hoffnungen auf Gesundheit hatte der Kranke lŠngst begraben.	1	35859	keine	0	keine	4,44	3,65	-0,2	4,95	3,89	57	9	6,736842	0	0	0	0	1	1	0	1	1
+45,899	6	42PP	8	401	War er frohen Mutes?	4	45899	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+56,951	4	42PP	9	160	Diana  wollte alles hinter sich lassen und reiste nach Japan.	1	56951	keine	0	keine	4,44	4,65	-1,9	4,37	4,11	51	11	4,368421	1	0	0	0	1	0	0	0	0
+62,987	4	42PP	10	249	Seine empfindliche Seele konnte den Streit nicht lŠnger aushalten.	2	62987	keine	0	keine	4,5	2,65	1,3	4,21	1,79	58	9	5,842105	0	0	0	0	1	1	0	1	0
+73,021	4	42PP	11	101	Ach, was fŸr ein leichtes Leben hatten wir wŠhrend der Schulferien!	1	73021	keine	0	keine	4,5	1,95	-0,1	4,89	2,79	57	11	5,736842	0	0	0	1	1	1	0	0	1
+78,068	4	42PP	12	349	##### ############ ##### ###### ### ###### ##### ###### #########	3	78068	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+83,108	4	42PP	13	159	Linda war nervšs, aber die PrŠsentation lief absolut glatt.	1	83108	keine	0	keine	4,22	3,65	1,5	5,16	4,74	51	9	5,947368	1	0	0	0	1	1	0	0	0
+88,147	4	42PP	14	362	###### #### ### #### ######	3	88147	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+95,187	4	42PP	15	210	Der Schauspieler hatte ein sehr grob vernarbtes Gesicht.	2	95187	keine	0	keine	6,12	3,6	0,6	5,37	1,53	49	8	5,947368	0	0	0	1	1	1	0	0	0
+103,232	4	42PP	16	308	### ###### ### ########## ### ##########	3	103232	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+108,273	6	42PP	17	402	Hast du gerade einen Satz gelesen?	4	108273	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+120,319	4	42PP	18	219	Die kleine Familie wollte ihren Hausbau grŸndlich planen.	2	120319	keine	0	keine	3,06	3,55	1,2	4,89	1,32	50	8	5,833333	0	0	0	1	1	1	0	1	0
+129,365	4	42PP	19	203	Das GesprŠch beim Finanzamt verlief glŸcklicherweise problemlos.	2	129365	keine	0	keine	3,17	3,95	-1,3	4,42	1,89	56	7	6,210526	0	0	0	1	1	2	0	0	0
+135,401	4	42PP	20	204	Das war eine unglaublich gleichgŸltige Reaktion von ihr.	2	135401	keine	0	keine	3,44	4	1,7	5,26	1,74	49	8	3,315789	0	0	0	1	1	2	0	0	0
+140,435	4	42PP	21	359	###### ### ###### #### ### ########## ### ####### #######	3	140435	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+146,475	4	42PP	22	147	Nur sehr helle Kinder machen bei diesem Wettbewerb mit.	1	146475	keine	0	keine	3,28	4,35	1,5	4,68	2,21	47	9	5,368421	0	0	0	1	1	2	0	0	0
+151,509	4	42PP	23	319	### ###### ####### ###### ##### ####### ########### ######	3	151509	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+158,549	4	42PP	24	213	Der vorbestrafte Mann war diesmal unschuldig.	2	158549	keine	0	keine	2,78	5,25	1,8	4,79	2,47	40	6	6,052632	0	0	0	1	1	1	0	0	0
+166,595	4	42PP	25	230	Endlich war Ruhe zwischen den Streitenden.	2	166595	keine	0	keine	4	2,2	0,7	4,95	1,32	37	6	4,578947	0	0	0	1	1	1	0	0	0
+171,636	4	42PP	26	150	Vokabeln verankern sich durch regelmŠ§iges †ben im Gehirn.	1	171636	keine	0	keine	3,33	3,8	1,4	5,05	3,63	51	8	6,263158	0	0	0	0	1	1	0	0	0
+176,675	4	42PP	27	146	Nach dem MissverstŠndnis war Irma jetzt in einer haarigen Situation.	1	176675	keine	0	keine	3,5	4,7	-1,7	5,32	3,58	59	10	5,894737	0	0	0	1	1	2	0	0	0
+185,715	4	42PP	28	339	#### ### ########### ######### ### ####### ### ######### #### ### #####	3	185715	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+194,75	4	42PP	29	131	Es gibt starke Argumente fŸr Baumwolle statt Polyester.	1	194750	keine	0	keine	2,33	4,7	1,6	5,05	5,37	48	8	6	0	0	0	0	1	0	0	0	0
+205,785	4	42PP	30	211	Der Sieg des LŠufers erzeugte riesige Medienaufmerksamkeit.	2	205785	keine	0	keine	4,59	4,2	-0,5	4,63	1,89	53	7	6,111111	0	0	0	1	1	1	0	0	0
+211,826	4	42PP	31	313	### ############ #### ### ####### ########	3	211826	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+216,861	4	42PP	32	218	Die GesprŠche Ÿber seine Kindheit waren schlimm fŸr ihn.	2	216861	keine	0	keine	4,06	3,4	0,1	4,11	1,63	48	9	5,315789	0	0	0	0	1	1	0	0	0
+227,9	6	42PP	33	403	Sprach er gerne Ÿber seine Kindheit?	4	227900	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+235,931	4	42PP	34	348	##### ########## ### ########## ##### ### ###### ###### ##########	3	235931	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+240,966	4	42PP	35	303	### ####### #### ######### ####### ################ ###########	3	240966	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+249,005	4	42PP	36	157	Ingrids neue Kaffeemaschine bestach durch ihre einfache Bedienung.	1	249005	keine	0	keine	4,44	4,4	0,9	4,37	3,47	59	8	4,736842	0	0	0	1	1	0	0	0	0
+258,046	4	42PP	37	239	Laut und unangenehm hallten die Stimmen der HŠndler auf dem Markt.	2	258046	keine	0	keine	4,89	2,25	0,4	4,26	2,68	56	11	4,157895	0	0	0	0	1	2	0	0	1
+264,081	4	42PP	38	162	Dieser Mann ist ein echter Leckerbissen.	1	264081	keine	0	keine	3,818182	4	2	3,636364	6,363636	34	6	6,181818	0	0	1	0	2	1	0	0	0
+273,115	4	42PP	39	307	### ############# ##### ### ######## #########	3	273115	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+278,151	4	42PP	40	346	#### ### ############### ### #### ##### ## ##### ######### #########	3	278151	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+289,19	4	42PP	41	207	Der Flugbegleiter heute war wirklich attraktiv!	2	289190	keine	0	keine	5,18	5,5	-0,6	3,84	3,53	42	6	6,526316	0	0	0	1	1	2	0	0	0
+297,231	4	42PP	42	330	####### ### ######## ######## ### ###########	3	297231	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+304,272	4	42PP	43	318	### ######### #### ##### ######## ##### ######### ### ###	3	304272	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+310,318	4	42PP	44	312	### ##### ### ################ ### #########	3	310318	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+316,352	4	42PP	45	122	Die Unternehmerin stand immer unter Druck.	1	316352	keine	0	keine	3,33	3,35	-0,6	5,05	2,95	37	6	4,157895	0	0	0	0	1	1	0	0	0
+324,387	4	42PP	46	112	Der Stoff des Matheunterrichts ist schwierig.	1	324387	keine	0	keine	2,89	4,5	-0,5	4,26	3,42	40	6	5,315789	0	0	0	1	1	1	0	0	0
+333,427	4	42PP	47	126	Diesen Sonntag duellieren sich die Kanzlerkandidaten im Fernsehen.	1	333427	keine	0	keine	5,22	4,65	-1,4	4,74	5,21	59	8	5,111111	0	0	0	1	1	2	0	0	0
+338,462	6	42PP	48	404	Ging es gerade um Wahlkampf?	4	338462	Ja	2756	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+350,508	4	42PP	49	311	### #### ### ####### ######## ####### ####################	3	350508	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+360,554	4	42PP	50	243	Meine Gro§eltern hatten ein wirklich schwieriges Leben.	2	360554	keine	0	keine	3,72	2,25	1,1	4,79	1,74	49	7	6,222222	0	0	0	1	1	1	0	0	0
+367,601	4	42PP	51	237	In Wien habe ich einen sehr leckeren Kaffee getrunken.	2	367601	keine	0	keine	5,72	5,1	-1,7	4,53	2	46	9	6,263158	0	0	0	0	1	1	0	0	0
+374,646	6	42PP	52	405	Hat der Kaffee geschmeckt?	4	374646	Ja	2197	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+384,682	4	42PP	53	154	WŸtend schaltete der LangschlŠfer den dummen Wecker aus.	1	384682	keine	0	keine	5,89	3,9	1,2	5,26	3,58	49	8	5,263158	0	0	0	1	1	1	0	0	0
+391,722	4	42PP	54	208	Der Gesang des Opernstars ist wunderschšn.	2	391722	keine	0	keine	4,72	4,2	-0,6	4,16	3,42	37	6	5,5	0	0	0	1	1	1	0	0	0
+396,768	4	42PP	55	350	######## ########## ##### ############ #### ## ######	3	396768	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+

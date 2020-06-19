@@ -1,0 +1,57 @@
+onset	duration	Experiment - Satz_D1	Serial_no	Code	Stimulus	Condition	Onset_time	response	response_time	Accuracy	Bildh	Arousal	EmoVal	Gebr	Metaph	Buchstaben	Wšrter	Similarity	NebensŠtze	Relative	Passiv	Komposita	Personen	Angaben	Konjunktive	analytF	Satzstellung
+1,623	4	38NF	1	22	Er achtete stets auf die Preise im Supermarkt.	99	1623	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+6,663	4	38NF	2	11	Ihm konnten nicht viele das Wasser reichen.	99	6663	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+11,703	4	38NF	3	105	Das war heute eine bittere EnttŠuschung fŸr meinen Vater.	1	11703	keine	0	keine	3,67	4,85	1,7	4,26	4,74	49	9	6,105263	0	0	0	0	1	1	0	0	0
+17,742	4	38NF	4	234	Ihre romantische Hochzeitsfeier gefiel der Braut sehr.	2	17742	keine	0	keine	5,17	3,8	-0,5	4,26	1,58	48	7	4,421053	0	0	0	1	1	1	0	0	0
+24,777	4	38NF	5	217	Die Firma hat sich einen finanziell gut situierten Partner ausgesucht.	2	24777	keine	0	keine	2,72	4,1	1,1	5,05	2,32	61	10	5,789474	0	0	0	0	1	1	0	1	0
+30,822	4	38NF	6	144	Meine Tante hat ein weiches Herz, sie kocht freiwillig fŸr Obdachlose.	1	30822	keine	0	keine	5,5	3,2	1,1	4,83	2,84	60	11	5,578947	1	0	0	1	2	1	0	0	0
+35,857	4	38NF	7	148	Seine Hoffnungen auf Gesundheit hatte der Kranke lŠngst begraben.	1	35857	keine	0	keine	4,44	3,65	-0,2	4,95	3,89	57	9	6,736842	0	0	0	0	1	1	0	1	1
+45,896	6	38NF	8	401	War er frohen Mutes?	4	45896	Nein	3860	incorrect	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+56,949	4	38NF	9	160	Diana  wollte alles hinter sich lassen und reiste nach Japan.	1	56949	keine	0	keine	4,44	4,65	-1,9	4,37	4,11	51	11	4,368421	1	0	0	0	1	0	0	0	0
+62,984	4	38NF	10	249	Seine empfindliche Seele konnte den Streit nicht lŠnger aushalten.	2	62984	keine	0	keine	4,5	2,65	1,3	4,21	1,79	58	9	5,842105	0	0	0	0	1	1	0	1	0
+73,002	4	38NF	11	101	Ach, was fŸr ein leichtes Leben hatten wir wŠhrend der Schulferien!	1	73002	keine	0	keine	4,5	1,95	-0,1	4,89	2,79	57	11	5,736842	0	0	0	1	1	1	0	0	1
+78,048	4	38NF	12	349	##### ############ ##### ###### ### ###### ##### ###### #########	3	78048	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+83,088	4	38NF	13	159	Linda war nervšs, aber die PrŠsentation lief absolut glatt.	1	83088	keine	0	keine	4,22	3,65	1,5	5,16	4,74	51	9	5,947368	1	0	0	0	1	1	0	0	0
+88,128	4	38NF	14	362	###### #### ### #### ######	3	88128	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+95,168	4	38NF	15	210	Der Schauspieler hatte ein sehr grob vernarbtes Gesicht.	2	95168	keine	0	keine	6,12	3,6	0,6	5,37	1,53	49	8	5,947368	0	0	0	1	1	1	0	0	0
+103,213	4	38NF	16	308	### ###### ### ########## ### ##########	3	103213	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+108,254	6	38NF	17	402	Hast du gerade einen Satz gelesen?	4	108254	Nein	2367	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+120,299	4	38NF	18	219	Die kleine Familie wollte ihren Hausbau grŸndlich planen.	2	120299	keine	0	keine	3,06	3,55	1,2	4,89	1,32	50	8	5,833333	0	0	0	1	1	1	0	1	0
+129,346	4	38NF	19	203	Das GesprŠch beim Finanzamt verlief glŸcklicherweise problemlos.	2	129346	keine	0	keine	3,17	3,95	-1,3	4,42	1,89	56	7	6,210526	0	0	0	1	1	2	0	0	0
+135,381	4	38NF	20	204	Das war eine unglaublich gleichgŸltige Reaktion von ihr.	2	135381	keine	0	keine	3,44	4	1,7	5,26	1,74	49	8	3,315789	0	0	0	1	1	2	0	0	0
+140,415	4	38NF	21	359	###### ### ###### #### ### ########## ### ####### #######	3	140415	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+146,455	4	38NF	22	147	Nur sehr helle Kinder machen bei diesem Wettbewerb mit.	1	146455	keine	0	keine	3,28	4,35	1,5	4,68	2,21	47	9	5,368421	0	0	0	1	1	2	0	0	0
+151,489	4	38NF	23	319	### ###### ####### ###### ##### ####### ########### ######	3	151489	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+158,529	4	38NF	24	213	Der vorbestrafte Mann war diesmal unschuldig.	2	158529	keine	0	keine	2,78	5,25	1,8	4,79	2,47	40	6	6,052632	0	0	0	1	1	1	0	0	0
+166,575	4	38NF	25	230	Endlich war Ruhe zwischen den Streitenden.	2	166575	keine	0	keine	4	2,2	0,7	4,95	1,32	37	6	4,578947	0	0	0	1	1	1	0	0	0
+171,615	4	38NF	26	150	Vokabeln verankern sich durch regelmŠ§iges †ben im Gehirn.	1	171615	keine	0	keine	3,33	3,8	1,4	5,05	3,63	51	8	6,263158	0	0	0	0	1	1	0	0	0
+176,655	4	38NF	27	146	Nach dem MissverstŠndnis war Irma jetzt in einer haarigen Situation.	1	176655	keine	0	keine	3,5	4,7	-1,7	5,32	3,58	59	10	5,894737	0	0	0	1	1	2	0	0	0
+185,695	4	38NF	28	339	#### ### ########### ######### ### ####### ### ######### #### ### #####	3	185695	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+194,73	4	38NF	29	131	Es gibt starke Argumente fŸr Baumwolle statt Polyester.	1	194730	keine	0	keine	2,33	4,7	1,6	5,05	5,37	48	8	6	0	0	0	0	1	0	0	0	0
+205,765	4	38NF	30	211	Der Sieg des LŠufers erzeugte riesige Medienaufmerksamkeit.	2	205765	keine	0	keine	4,59	4,2	-0,5	4,63	1,89	53	7	6,111111	0	0	0	1	1	1	0	0	0
+211,806	4	38NF	31	313	### ############ #### ### ####### ########	3	211806	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+216,84	4	38NF	32	218	Die GesprŠche Ÿber seine Kindheit waren schlimm fŸr ihn.	2	216840	keine	0	keine	4,06	3,4	0,1	4,11	1,63	48	9	5,315789	0	0	0	0	1	1	0	0	0
+227,88	6	38NF	33	403	Sprach er gerne Ÿber seine Kindheit?	4	227880	Nein	2243	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+235,911	4	38NF	34	348	##### ########## ### ########## ##### ### ###### ###### ##########	3	235911	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+240,945	4	38NF	35	303	### ####### #### ######### ####### ################ ###########	3	240945	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+248,985	4	38NF	36	157	Ingrids neue Kaffeemaschine bestach durch ihre einfache Bedienung.	1	248985	keine	0	keine	4,44	4,4	0,9	4,37	3,47	59	8	4,736842	0	0	0	1	1	0	0	0	0
+258,025	4	38NF	37	239	Laut und unangenehm hallten die Stimmen der HŠndler auf dem Markt.	2	258025	keine	0	keine	4,89	2,25	0,4	4,26	2,68	56	11	4,157895	0	0	0	0	1	2	0	0	1
+264,06	4	38NF	38	162	Dieser Mann ist ein echter Leckerbissen.	1	264060	keine	0	keine	3,818182	4	2	3,636364	6,363636	34	6	6,181818	0	0	1	0	2	1	0	0	0
+273,095	4	38NF	39	307	### ############# ##### ### ######## #########	3	273095	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+278,13	4	38NF	40	346	#### ### ############### ### #### ##### ## ##### ######### #########	3	278130	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+289,169	4	38NF	41	207	Der Flugbegleiter heute war wirklich attraktiv!	2	289169	keine	0	keine	5,18	5,5	-0,6	3,84	3,53	42	6	6,526316	0	0	0	1	1	2	0	0	0
+297,211	4	38NF	42	330	####### ### ######## ######## ### ###########	3	297211	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+304,251	4	38NF	43	318	### ######### #### ##### ######## ##### ######### ### ###	3	304251	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+310,28	4	38NF	44	312	### ##### ### ################ ### #########	3	310280	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+316,314	4	38NF	45	122	Die Unternehmerin stand immer unter Druck.	1	316314	keine	0	keine	3,33	3,35	-0,6	5,05	2,95	37	6	4,157895	0	0	0	0	1	1	0	0	0
+324,349	4	38NF	46	112	Der Stoff des Matheunterrichts ist schwierig.	1	324349	keine	0	keine	2,89	4,5	-0,5	4,26	3,42	40	6	5,315789	0	0	0	1	1	1	0	0	0
+333,389	4	38NF	47	126	Diesen Sonntag duellieren sich die Kanzlerkandidaten im Fernsehen.	1	333389	keine	0	keine	5,22	4,65	-1,4	4,74	5,21	59	8	5,111111	0	0	0	1	1	2	0	0	0
+338,424	6	38NF	48	404	Ging es gerade um Wahlkampf?	4	338424	Ja	2788	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+350,454	4	38NF	49	311	### #### ### ####### ######## ####### ####################	3	350454	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+360,5	4	38NF	50	243	Meine Gro§eltern hatten ein wirklich schwieriges Leben.	2	360500	keine	0	keine	3,72	2,25	1,1	4,79	1,74	49	7	6,222222	0	0	0	1	1	1	0	0	0
+367,546	4	38NF	51	237	In Wien habe ich einen sehr leckeren Kaffee getrunken.	2	367546	keine	0	keine	5,72	5,1	-1,7	4,53	2	46	9	6,263158	0	0	0	0	1	1	0	0	0
+374,592	6	38NF	52	405	Hat der Kaffee geschmeckt?	4	374592	Ja	2495	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+384,627	4	38NF	53	154	WŸtend schaltete der LangschlŠfer den dummen Wecker aus.	1	384627	keine	0	keine	5,89	3,9	1,2	5,26	3,58	49	8	5,263158	0	0	0	1	1	1	0	0	0
+391,667	4	38NF	54	208	Der Gesang des Opernstars ist wunderschšn.	2	391667	keine	0	keine	4,72	4,2	-0,6	4,16	3,42	37	6	5,5	0	0	0	1	1	1	0	0	0
+396,713	4	38NF	55	350	######## ########## ##### ############ #### ## ######	3	396713	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+
